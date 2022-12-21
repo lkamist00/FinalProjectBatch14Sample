@@ -10,5 +10,12 @@ public class Main {
         Fxron.size="1242343";
         Fxron.temp="-3524313341";
 
+        Planet1 planet1 = new Planet1();
+        planet1.color="gold";
+        planet1.size=12312321;
+        planet1.temperature="-34654234";
+        planet1.rings="2";
+
+
     }
 }
